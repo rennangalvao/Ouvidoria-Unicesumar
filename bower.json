@@ -1,0 +1,21 @@
+{
+  "name": "Mapa Ouvidoria",
+  "homepage": "https://github.com/unicesumar-eduardobona/mapa-ouvidoria",
+  "authors": [
+    "Eduardo Bona <eduardobona@vivaweb.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1"
+  }
+}

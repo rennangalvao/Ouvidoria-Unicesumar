@@ -1,0 +1,20 @@
+{
+  "name": "mapa-ouvidoria",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-copy": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unicesumar-eduardobona/mapa-ouvidoria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unicesumar-eduardobona/mapa-ouvidoria/issues"
+  },
+  "homepage": "https://github.com/unicesumar-eduardobona/mapa-ouvidoria#readme"
+}
